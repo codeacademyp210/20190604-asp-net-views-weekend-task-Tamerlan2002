@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Jun 2019 21:38:03 at http://demo.agnidesigns.com/fortune/demo1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.agnidesigns.com/fortune/demo1/ -O1 "C:\Users\Hp ProBook\Desktop\New\Back End\Demo1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:39:29	Error: 	"Method Not Allowed" (405) at link demo.agnidesigns.com/fortune/demo1/xmlrpc.php (from demo.agnidesigns.com/fortune/demo1/)
+21:45:47	Warning: 	File not parsed, looks like binary: demo.agnidesigns.com/fortune/demo1/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+21:45:48	Error: 	"Not Found" (404) at link demo.agnidesigns.com/fortune/demo1/wp-content/themes/fortun/css/owl.video.play.png (from demo.agnidesigns.com/fortune/demo1/wp-content/themes/fortun/css/fortune-plugins.css?ver=4.8.9)
+21:45:48	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=176
+21:45:48	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=176 to http://demo.agnidesigns.com/fortune/demo1/d1-about/
+21:45:48	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=238
+21:45:48	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=238 to http://demo.agnidesigns.com/fortune/demo1/d1-services/
+21:45:48	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=611
+21:45:48	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=611 to http://demo.agnidesigns.com/fortune/demo1/d1-works/
+21:46:28	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=535
+21:46:28	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=535 to http://demo.agnidesigns.com/fortune/demo1/d1-blog/
+21:47:03	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=266
+21:47:03	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=266 to http://demo.agnidesigns.com/fortune/demo1/d1-contact/
+21:47:05	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=599
+21:47:05	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=599 to http://demo.agnidesigns.com/fortune/demo1/portfolio/sidebar-constrained/
+21:47:05	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=601
+21:47:05	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=601 to http://demo.agnidesigns.com/fortune/demo1/portfolio/zigzag-constrained/
+21:47:05	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=309
+21:47:05	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=309 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullscreen-slider/
+21:47:31	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=602
+21:47:31	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=602 to http://demo.agnidesigns.com/fortune/demo1/portfolio/sidebar-gallery-fullwidth/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=317
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=317 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullwidth-carousel-vc-elements/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=316
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=316 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullwidth-media-constrained/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=310
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=310 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullwidth-constrained/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=600
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=600 to http://demo.agnidesigns.com/fortune/demo1/portfolio/right-sidebar-fullwidth/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/d1-works/page/1/
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/d1-works/page/1/ to http://demo.agnidesigns.com/fortune/demo1/d1-works/
+21:47:41	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=41
+21:47:41	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=41 to http://demo.agnidesigns.com/fortune/demo1/2016/12/05/10-things-new-york-lovers-could-only-understand/
+21:47:47	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=43
+21:47:47	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=43 to http://demo.agnidesigns.com/fortune/demo1/2016/12/04/wildlife-could-be-amazing-see-why/
+21:47:47	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=26
+21:47:47	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=26 to http://demo.agnidesigns.com/fortune/demo1/2016/12/04/strange-things-that-make-you-wow/
+21:47:53	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=19
+21:47:53	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=19 to http://demo.agnidesigns.com/fortune/demo1/2016/12/03/six-things-wont-go-out-of-style/
+21:47:54	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=603
+21:47:54	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=603 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullwidth-gallery/
+21:47:54	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=318
+21:47:54	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=318 to http://demo.agnidesigns.com/fortune/demo1/portfolio/fullwidth-grid-gallery/
+21:47:54	Warning: 	Moved Permanently for demo.agnidesigns.com/fortune/demo1/?p=14
+21:47:54	Warning: 	File has moved from demo.agnidesigns.com/fortune/demo1/?p=14 to http://demo.agnidesigns.com/fortune/demo1/2016/12/03/10-things-would-say-if-youre-a-designer-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 55 seconds : 385 links scanned, 361 files written (17911796 bytes overall) [15240991 bytes received at 25615 bytes/sec], 3576475 bytes transferred using HTTP compression in 124 files, ratio 21%, 3.2 requests per connection
+(2 errors, 43 warnings, 0 messages)
